@@ -1,0 +1,91 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (studentenverwaltung_einbinden.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1205): error C2065: 'student': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1205): error C2146: syntax error: missing ';' before identifier 'stud'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1205): error C2065: 'stud': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1206): error C2065: 'firma': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1206): error C2146: syntax error: missing ';' before identifier 'f'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1206): error C2065: 'f': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2065: 'string': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2146: syntax error: missing ';' before identifier 'matr'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2065: 'matr': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2653: 'msclr': is not a class or namespace name
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2065: 'marshal_as': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2065: 'string': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2146: syntax error: missing ';' before identifier 'vorn'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2065: 'vorn': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2653: 'msclr': is not a class or namespace name
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2065: 'marshal_as': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1214): error C2374: 'Matrikelnummer': redefinition; multiple initialization
+  c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1208): note: see declaration of 'Matrikelnummer'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2065: 'string': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2146: syntax error: missing ';' before identifier 'matr'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2065: 'matr': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2653: 'msclr': is not a class or namespace name
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2065: 'marshal_as': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1217): error C2065: 'ofstream': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1217): error C2146: syntax error: missing ';' before identifier 'studenten'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1217): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1218): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1218): error C2228: left of '.open' must have class/struct/union
+  c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1218): note: type is 'unknown-type'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1219): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1219): error C2065: 'matr': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1219): error C2065: 'endl': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1221): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1221): error C2228: left of '.close' must have class/struct/union
+  c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1221): note: type is 'unknown-type'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1222): error C2065: 'cout': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1222): error C2065: 'matr': undeclared identifier
+MyForm.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  neu.cpp
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1205): error C2065: 'student': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1205): error C2146: syntax error: missing ';' before identifier 'stud'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1205): error C2065: 'stud': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1206): error C2065: 'firma': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1206): error C2146: syntax error: missing ';' before identifier 'f'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1206): error C2065: 'f': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2065: 'string': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2146: syntax error: missing ';' before identifier 'matr'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2065: 'matr': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2653: 'msclr': is not a class or namespace name
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2065: 'marshal_as': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1209): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2065: 'string': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2146: syntax error: missing ';' before identifier 'vorn'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2065: 'vorn': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2653: 'msclr': is not a class or namespace name
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2065: 'marshal_as': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1212): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1214): error C2374: 'Matrikelnummer': redefinition; multiple initialization
+  c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1208): note: see declaration of 'Matrikelnummer'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2065: 'string': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2146: syntax error: missing ';' before identifier 'matr'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2065: 'matr': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2653: 'msclr': is not a class or namespace name
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2065: 'marshal_as': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1215): error C2039: 'string': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1217): error C2065: 'ofstream': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1217): error C2146: syntax error: missing ';' before identifier 'studenten'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1217): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1218): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1218): error C2228: left of '.open' must have class/struct/union
+  c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1218): note: type is 'unknown-type'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1219): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1219): error C2065: 'matr': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1219): error C2065: 'endl': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1221): error C2065: 'studenten': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1221): error C2228: left of '.close' must have class/struct/union
+  c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1221): note: type is 'unknown-type'
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1222): error C2065: 'cout': undeclared identifier
+c:\users\oliver\desktop\studentenverwaltung_ausgabe_fertig\studentenverwaltung_ausgabe_fertig\studentenverwaltung\neu.h(1222): error C2065: 'matr': undeclared identifier
+  Generating Code...
